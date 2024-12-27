@@ -1,2 +1,2 @@
-# thread_pool
+# thread-pool
 A thread pool in Rust

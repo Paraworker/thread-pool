@@ -1,5 +1,5 @@
 [package]
-name = "thread_pool"
+name = "thread-pool"
 version = "0.1.0"
 edition = "2021"
 
@@ -10,5 +10,5 @@ crossbeam-channel = "0.5.14"
 log = "0.4.22"
 
 [[test]]
-name = "integration_test"
+name = "integration-test"
 path = "tests/tests.rs"
